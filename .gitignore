@@ -3,3 +3,5 @@ AUTHORSbuild-nacl.shbuild-win32.batCHANGELOGcocos2d-win32.vc2010.slncocos2d
 bin
 gen
 obj
+
+cocos2d
